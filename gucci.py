@@ -1,2 +1,2 @@
-print('idi naxyi')
+print('code with me')
 a = 1
